@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "cypress:open": "cypress open",
-    "e2e": "npm run e2e"
+    "e2e": "npx cypress run"
   },
   "author": "",
   "license": "ISC",
