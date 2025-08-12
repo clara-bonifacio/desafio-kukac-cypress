@@ -50,7 +50,6 @@ Os testes E2E ficam na pasta **`cypress/e2e`**:
     ```bash
     npm run cypress:open
     ```
-    ```
 4. **Rodar os testes no modo headless**
     ```bash
     npm run e2e
