@@ -40,7 +40,7 @@ Os testes E2E ficam na pasta **`cypress/e2e`**:
 1. **Clone o repositório**
     ```bash
     git clone https://github.com/clara-bonifacio/desafio-kukac-cypress.git
-    cd seu-repo
+    cd desafio-kukac-cypress
     ```
 2. **Instale as dependências**
     ```bash
