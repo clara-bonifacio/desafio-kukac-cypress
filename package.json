@@ -1,0 +1,18 @@
+{
+  "name": "desafio-kukac-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "e2e": "npm run e2e"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^24.2.1",
+    "cypress": "^14.5.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  }
+}
